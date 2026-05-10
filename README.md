@@ -43,7 +43,7 @@ Browser mein automatically khul jayega: `http://localhost:8501`
 ## 🌐 Streamlit Cloud par Deploy Karna (FREE)
 
 ### Step 1 — GitHub Account Banao
-https://github.com
+https://github.com/anishamaroof/chatbot.py/edit/main/README.md
 
 ### Step 2 — New Repository Banao
 - "New repository" click karo
@@ -65,7 +65,7 @@ https://share.streamlit.io
 - "Deploy!" click karo
 
 ✅ 2-3 minute mein aapka chatbot live ho jayega!
-Free URL milegi jaise: `https://yourname-text-mining-chatbot.streamlit.app`
+Free URL milegi jaise: https://chatbotpy-xkdaxhwtxe9tyhwfxeebkv.streamlit.app/
 
 ---
 
@@ -97,3 +97,5 @@ Free URL milegi jaise: `https://yourname-text-mining-chatbot.streamlit.app`
 ## 👨‍💻 Developer Info
 Built with ❤️ using Python & Streamlit  
 Course: Text Mining | Instructor: Sir Shazaib
+built-in by: Anisha Maroof(DSAI231102010),Javeria Akmal(DSAI231102006) ,Kainat Arshad(DSAI231102017)
+
