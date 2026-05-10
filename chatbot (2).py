@@ -339,7 +339,6 @@ SUGGESTIONS = [
     "Sir Shazaib kaun hain?",
     "CR kaun hai? 👑",
     "Favourite student kaun hai? ❤️",
-    "Anisha Maroof kaun hain?",
     "Ye kis ka project hai?",
     "Ek joke sunao 😂",
     "Exam tips do! 📝",
