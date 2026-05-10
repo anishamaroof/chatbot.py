@@ -248,10 +248,10 @@ RULES = [
         "keywords": ["cr kaun", "cr kon", "class representative", "cr ahmed", "ahmed cr", "cr hai", "cr kya"],
         "response": "👑 Hamare class ka **CR Ahmed** hai! Woh bahut zimmedar aur helpful student hai. Class ki saari updates, assignments aur announcements Ahmed hi deliver karta hai. Agar koi class se related kaam ho to Ahmed se milo! 📋"
     },
-   {
+    {   
     "keywords": ["topper", "first position", "best student", "topper kaun"],
-    "response": "🏆 Hamare class ka **topper Ahmed CR** hai! Woh bohot mehanti aur intelligent student hai. Ahmed CR bhi hai aur topper bhi — double role! 💪🌟"
-},
+    "response": "🏆 Hamare class ka **topper Ahmed CR** hai! Woh bohot mehanti aur intelligent student hai. Har exam mein first position leta hai. Ahmed CR bhi hai aur topper bhi — double role! 💪🌟"
+    },
     {
         "keywords": ["favourite student", "favorite student", "meri favourite", "mera favourite", "pasandida student", "apni favourite"],
         "response": "❤️ Meri favourite student **Ayesha Anwar** hai! Woh bohot achi  hai aur class mein bohot active rehti hai. Ayesha se notes maango — zaroor NHI milenge! 🌸✨"
