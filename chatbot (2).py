@@ -248,17 +248,17 @@ RULES = [
         "keywords": ["cr kaun", "cr kon", "class representative", "cr ahmed", "ahmed cr", "cr hai", "cr kya"],
         "response": "👑 Hamare class ka **CR Ahmed** hai! Woh bahut zimmedar aur helpful student hai. Class ki saari updates, assignments aur announcements Ahmed hi deliver karta hai. Agar koi class se related kaam ho to Ahmed se milo! 📋"
     },
-    {
-        "keywords": ["topper", "first position", "best student", "ayesha anwar", "ayesha kaun", "topper kaun"],
-        "response": "🏆 Hamare class ka **topper Ahmed** hai! Woh bohot mehanti aur intelligent student hai. Har exam mein first position leta hai. Ahmed CR bhi hai aur topper bhi — double role! 💪🌟"
-    },
+   {
+    "keywords": ["topper", "first position", "best student", "topper kaun"],
+    "response": "🏆 Hamare class ka **topper Ahmed CR** hai! Woh bohot mehanti aur intelligent student hai. Ahmed CR bhi hai aur topper bhi — double role! 💪🌟"
+},
     {
         "keywords": ["favourite student", "favorite student", "meri favourite", "mera favourite", "pasandida student", "apni favourite"],
-        "response": "❤️ Meri favourite student **Ayesha Anwar** hai! Woh bohot achi dost hai aur class mein bohot active rehti hai. Ayesha se notes maango — zaroor milenge! 🌸✨"
+        "response": "❤️ Meri favourite student **Ayesha Anwar** hai! Woh bohot achi  hai aur class mein bohot active rehti hai. Ayesha se notes maango — zaroor NHI milenge! 🌸✨"
     },
     {
         "keywords": ["anisha maroof", "anisha", "aapka naam", "tumhara naam", "your name", "is chatbot ka naam", "chatbot naam", "mera naam", "teacher name", "banane wali", "kisne banaya", "developer"],
-        "response": "👩‍💻 Is chatbot ko **Anisha Maroof** ne banaya hai! Anisha hamare class ki ek talented student hain jinhe Text Mining aur Python mein gehri dilchaspi hai. Ye project unka **Text Mining Lab ka project** hai jo Sir Shazaib ke course ke liye develop kiya gaya hai! 🎓💻"
+        "response": "👩‍💻 Is chatbot ko **Anisha Maroof** ne banaya hai!  Ye project unka **Text Mining Lab ka project** hai jo Sir Shazaib ke course ke liye develop kiya gaya hai! 🎓💻"
     },
     {
         "keywords": ["ye kis ka project", "kiska project", "yeh project", "lab project", "text mining lab", "kis ne banaya", "project kisne"],
@@ -312,7 +312,7 @@ RULES = [
     },
     {
         "keywords": ["chutti", "holiday", "break", "chhutti"],
-        "response": "🎉 Chutti ki baat achi lagi! Lekin Sir Shazaib ki class ki chutti nahi hoti — woh attendance strict rakhte hain! 😅 CR Ahmed se confirm karo ke kal class hai ya nahi. Aur chutti mein bhi Text Mining thoda parh lena — future ke liye kaam aayega! 😄"
+        "response": "🎉 Chutti ki baat achi lagi!  CR Ahmed se confirm karo ke kal class hai ya nahi. Aur chutti mein bhi Text Mining thoda parh lena — future ke liye kaam aayega! 😄"
     },
     {
         "keywords": ["kya lagta", "opinion", "best topic", "pasandida topic"],
