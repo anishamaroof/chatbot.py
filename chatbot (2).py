@@ -259,8 +259,8 @@ RULES = [
 },
     {
         "keywords": ["ye kis ka project", "kiska project", "yeh project", "lab project", "text mining lab", "kis ne banaya", "project kisne"],
-        "response": "📁 Ye **Anisha Maroof** ka project hai! 👩‍💻\n\n🎓 **Project Details:**\n• **Developer:** Anisha Maroof\n• **Subject:** Text Mining Lab\n• **Instructor:** Sir Shazaib\n• **Type:** Rule-Based Chatbot\n• **Tech Stack:** Python + Streamlit\n\nIs chatbot mein Text Mining ke concepts, class info aur casual conversations — sab cover hain! 🚀"
-    },
+       "response": "📁 Ye **Anisha Maroof, Javeria Akmal aur Kainat Arshad** ka project hai! 👩‍💻👩‍💻👩‍💻\n\n🎓 **Project Details:**\n• **Developers:** Anisha Maroof, Javeria Akmal, Kainat Arshad\n• **Subject:** Text Mining Lab\n• **Instructor:** Sir Shazaib\n• **Type:** Rule-Based Chatbot\n• **Tech Stack:** Python + Streamlit\n\nIs chatbot mein Text Mining ke concepts, class info aur casual conversations — sab cover hain! 🚀"
+},
     {
         "keywords": ["ahmed kaun", "ahmed hai", "ahmed kon"],
         "response": "😄 **Ahmed** hamare class ka **CR (Class Representative)** hai! Woh class ke sab se responsible bande mein se hai. Assignments, attendance, announcements — sab ka khayal rakhta hai. Ek acha leader! 💪"
