@@ -255,8 +255,8 @@ RULES = [
     },
     {
         "keywords": ["anisha maroof", "anisha", "aapka naam", "tumhara naam", "your name", "is chatbot ka naam", "chatbot naam", "mera naam", "teacher name", "banane wali", "kisne banaya", "developer"],
-        "response": "👩‍💻 Is chatbot ko **Anisha Maroof** ne banaya hai!  Ye project unka **Text Mining Lab ka project** hai jo Sir Shazaib ke course ke liye develop kiya gaya hai! 🎓💻"
-    },
+     "response": "📁 Ye **Anisha Maroof, Javeria Akmal aur Kainat Arshad** ka project hai! 👩‍💻👩‍💻👩‍💻\n\n🎓 **Project Details:**\n• **Developers:** Anisha Maroof, Javeria Akmal, Kainat Arshad\n• **Subject:** Text Mining Lab\n• **Instructor:** Sir Shazaib\n• **Type:** Rule-Based Chatbot\n• **Tech Stack:** Python + Streamlit\n\nIs chatbot mein Text Mining ke concepts, class info aur casual conversations — sab cover hain! 🚀"
+},
     {
         "keywords": ["ye kis ka project", "kiska project", "yeh project", "lab project", "text mining lab", "kis ne banaya", "project kisne"],
         "response": "📁 Ye **Anisha Maroof** ka project hai! 👩‍💻\n\n🎓 **Project Details:**\n• **Developer:** Anisha Maroof\n• **Subject:** Text Mining Lab\n• **Instructor:** Sir Shazaib\n• **Type:** Rule-Based Chatbot\n• **Tech Stack:** Python + Streamlit\n\nIs chatbot mein Text Mining ke concepts, class info aur casual conversations — sab cover hain! 🚀"
